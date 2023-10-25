@@ -44,4 +44,4 @@ Novedades de la última versión:
 * Puedes arrastrar y soltar documentos Markdown o archivos HTML en el editor.
 * También puedes incluir imágenes, aunque para ello deberás inlazar tu cuente de Dropbox.
 
-
+Esto es una prueba de edición de archivo de José Alejandro.
