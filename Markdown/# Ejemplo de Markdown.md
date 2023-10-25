@@ -62,3 +62,6 @@ Government is just a monopoly of violence afterall, why not introduce some compe
 ## Warning
 
 `By using this service you consent to take full accountability for the actions of the profesionals hired, AIM and its partners are not responsible for any of the actions commited in the pursue of your goals.`
+
+# FOTO DANIEL REYES
+![](perro.JPG)
