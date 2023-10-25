@@ -45,3 +45,5 @@ Novedades de la última versión:
 * También puedes incluir imágenes, aunque para ello deberás inlazar tu cuente de Dropbox.
 
 Esto es una prueba de edición de archivo de José Alejandro.
+
+![Sandwich de Jamón y Queso](/Images/sandwich-havar-adob-t.jpg.webp)
